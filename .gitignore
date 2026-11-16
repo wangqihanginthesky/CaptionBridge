@@ -1,0 +1,14 @@
+.build/
+dist/
+output/
+VALIDATION.md
+.DS_Store
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.pem
+*.key
+*.mobileprovision
+*.provisionprofile
